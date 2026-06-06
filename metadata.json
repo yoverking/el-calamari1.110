@@ -1,0 +1,8 @@
+{
+  "name": "SkyAuth Login",
+  "description": "A premium glassmorphism login screen with a realistic sky background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
